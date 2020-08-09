@@ -1,0 +1,13 @@
+E:\projects\Shop\Shop.Repository\bin\Debug\netcoreapp3.0\Shop.Repository.deps.json
+E:\projects\Shop\Shop.Repository\bin\Debug\netcoreapp3.0\Shop.Repository.dll
+E:\projects\Shop\Shop.Repository\bin\Debug\netcoreapp3.0\Shop.Repository.pdb
+E:\projects\Shop\Shop.Repository\obj\Debug\netcoreapp3.0\Shop.Repository.AssemblyInfoInputs.cache
+E:\projects\Shop\Shop.Repository\obj\Debug\netcoreapp3.0\Shop.Repository.AssemblyInfo.cs
+E:\projects\Shop\Shop.Repository\obj\Debug\netcoreapp3.0\Shop.Repository.dll
+E:\projects\Shop\Shop.Repository\obj\Debug\netcoreapp3.0\Shop.Repository.pdb
+E:\projects\Shop\Shop.Repository\bin\Debug\netcoreapp3.0\Shop.Common.dll
+E:\projects\Shop\Shop.Repository\bin\Debug\netcoreapp3.0\Shop.Data.dll
+E:\projects\Shop\Shop.Repository\bin\Debug\netcoreapp3.0\Shop.Common.pdb
+E:\projects\Shop\Shop.Repository\bin\Debug\netcoreapp3.0\Shop.Data.pdb
+E:\projects\Shop\Shop.Repository\obj\Debug\netcoreapp3.0\Shop.Repository.csprojAssemblyReference.cache
+E:\projects\Shop\Shop.Repository\obj\Debug\netcoreapp3.0\Shop.Repository.csproj.CopyComplete

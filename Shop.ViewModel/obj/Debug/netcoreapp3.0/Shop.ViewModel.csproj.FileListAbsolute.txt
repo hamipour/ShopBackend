@@ -1,0 +1,7 @@
+E:\projects\Shop\Shop.ViewModel\bin\Debug\netcoreapp3.0\Shop.ViewModel.deps.json
+E:\projects\Shop\Shop.ViewModel\bin\Debug\netcoreapp3.0\Shop.ViewModel.dll
+E:\projects\Shop\Shop.ViewModel\bin\Debug\netcoreapp3.0\Shop.ViewModel.pdb
+E:\projects\Shop\Shop.ViewModel\obj\Debug\netcoreapp3.0\Shop.ViewModel.AssemblyInfoInputs.cache
+E:\projects\Shop\Shop.ViewModel\obj\Debug\netcoreapp3.0\Shop.ViewModel.AssemblyInfo.cs
+E:\projects\Shop\Shop.ViewModel\obj\Debug\netcoreapp3.0\Shop.ViewModel.dll
+E:\projects\Shop\Shop.ViewModel\obj\Debug\netcoreapp3.0\Shop.ViewModel.pdb

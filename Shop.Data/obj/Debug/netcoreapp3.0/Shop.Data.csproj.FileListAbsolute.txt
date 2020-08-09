@@ -1,0 +1,10 @@
+E:\projects\Shop\Shop.Data\bin\Debug\netcoreapp3.0\Shop.Data.deps.json
+E:\projects\Shop\Shop.Data\bin\Debug\netcoreapp3.0\Shop.Data.dll
+E:\projects\Shop\Shop.Data\obj\Debug\netcoreapp3.0\Shop.Data.csprojAssemblyReference.cache
+E:\projects\Shop\Shop.Data\obj\Debug\netcoreapp3.0\Shop.Data.AssemblyInfoInputs.cache
+E:\projects\Shop\Shop.Data\obj\Debug\netcoreapp3.0\Shop.Data.AssemblyInfo.cs
+E:\projects\Shop\Shop.Data\bin\Debug\netcoreapp3.0\Shop.Data.runtimeconfig.json
+E:\projects\Shop\Shop.Data\bin\Debug\netcoreapp3.0\Shop.Data.runtimeconfig.dev.json
+E:\projects\Shop\Shop.Data\bin\Debug\netcoreapp3.0\Shop.Data.pdb
+E:\projects\Shop\Shop.Data\obj\Debug\netcoreapp3.0\Shop.Data.dll
+E:\projects\Shop\Shop.Data\obj\Debug\netcoreapp3.0\Shop.Data.pdb
